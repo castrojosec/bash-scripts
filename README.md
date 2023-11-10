@@ -25,12 +25,12 @@ El script `install_glpi.sh` realiza las siguientes tareas:
 1. Clone este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/glpi-automation-scripts.git
+   git clone https://github.com/castrojosec/glpi-installation-scripts.git
 
 2. Ingresa al directorio clonado
 
    ```bash
-   cd glpi-automation-scripts
+   cd glpi-installation-scripts
 
 3. Ejecuta el script de instalacion
 
